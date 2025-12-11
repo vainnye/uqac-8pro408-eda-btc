@@ -40,4 +40,4 @@ streamlit run app_streamlit.py
 
 ### Rapport
 
-`RAPPORT.pdf` existe aussi en markdown (je l'ai écrit en markdown puis converti avec ) `RAPPORT.md` 
+`RAPPORT.pdf` existe aussi en markdown (je l'ai écrit en markdown puis converti avec pandoc) `RAPPORT.md` 
