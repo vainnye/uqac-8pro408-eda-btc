@@ -2,6 +2,8 @@
 
 Cours 8PRO408 — Outils de programmation pour la science des données. Jeu de données Kaggle `btcusd_1-min_data.csv`, environ 7,3 millions de lignes entre janvier 2012 et décembre 2025.
 
+Devoir réalisé en individuel par **Vianney Jacquemot** `JACV28100500` - 2025-12-10
+
 ---
 
 ### Préparation et qualité
